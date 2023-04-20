@@ -36,10 +36,8 @@ cargo install elf2uf2-rs --locked
 # Useful for flashing over the SWD pins using a supported JTAG probe
 cargo install probe-run
 ```
-source: https://github.com/rp-rs/rp-hal/
 
-
-#### 3. 
+#### 3. Download & Run Starter Code
 ```bash
 git clone https://github.com/rp-rs/rp-hal
 cd rp-hal
@@ -59,11 +57,13 @@ cargo run --release --example pwm_blink
 ![Alt Text](pwd_blinky.gif)
 
 
+#### 5. Have Fun !!
+
 
 ## REFERENCES
 
- https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
  https://github.com/rp-rs/rp-hal
- https://www.digikey.com/en/maker/projects/raspberry-pi-pico-and-rp2040-cc-part-2-debugging-with-vs-code/470abc7efb07432b82c95f6f67f184c0
  https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
  https://www.youtube.com/watch?v=Yi0WRF5WPFw&ab_channel=LowLevelLearning
+ https://www.digikey.com/en/maker/projects/raspberry-pi-pico-and-rp2040-cc-part-2-debugging-with-vs-code/470abc7efb07432b82c95f6f67f184c0
+ 
