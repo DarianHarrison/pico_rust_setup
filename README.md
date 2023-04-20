@@ -40,7 +40,7 @@ source: https://github.com/rp-rs/rp-hal/
 
 
 #### 3. 
-```sh
+```bash
 git clone https://github.com/rp-rs/rp-hal
 cd rp-hal
 cargo run --release --example blinky
@@ -62,8 +62,8 @@ cargo run --release --example pwm_blink
 
 ## REFERENCES
 
-https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
-https://github.com/rp-rs/rp-hal
-https://www.digikey.com/en/maker/projects/raspberry-pi-pico-and-rp2040-cc-part-2-debugging-with-vs-code/470abc7efb07432b82c95f6f67f184c0
-https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
-https://www.youtube.com/watch?v=Yi0WRF5WPFw&ab_channel=LowLevelLearning
+ https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
+ https://github.com/rp-rs/rp-hal
+ https://www.digikey.com/en/maker/projects/raspberry-pi-pico-and-rp2040-cc-part-2-debugging-with-vs-code/470abc7efb07432b82c95f6f67f184c0
+ https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
+ https://www.youtube.com/watch?v=Yi0WRF5WPFw&ab_channel=LowLevelLearning
